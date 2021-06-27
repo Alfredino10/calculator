@@ -89,6 +89,7 @@ button:hover {
   }
   button {
     border-radius: 100%;
+    background-color: #efefef;
   }
   button:hover {
     background-color: transparent;
