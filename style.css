@@ -89,12 +89,11 @@ button:hover {
   }
   button {
     border-radius: 100%;
-    background-color: #efefef;
+    background-color: lightgray;
   }
   button:hover {
-    background-color: transparent;
+    background-color: lightgray;
   }
-  button:active {
-    background-color: #ffc947;
+  
   }
 }
