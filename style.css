@@ -59,9 +59,6 @@ button:hover {
   background-color: #0a1931;
   color: #ffff;
 }
-.pd {
-  font-size: 3rem;
-}
 
 @media screen and (max-width: 412px) {
   .wrapper {
